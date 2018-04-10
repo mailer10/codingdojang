@@ -1,4 +1,4 @@
-package num50;
+package num51;
 
 import java.util.Scanner;
 
